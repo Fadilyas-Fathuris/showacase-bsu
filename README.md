@@ -26,4 +26,4 @@ Highlight:
 
 - Frontend : https://github.com/fadilyas24/aplikasi_bsu.git
 
- -Backend : https://github.com/fadilyas24/flask-bsu.git
+- Backend : https://github.com/fadilyas24/flask-bsu.git
